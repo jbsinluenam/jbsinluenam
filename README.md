@@ -1,6 +1,5 @@
 Hi there, I'JB. 👋🏼
 
-
 # 💫 About Me:
 🔭 I’m currently working on my personal project.<br>🌱 I’m currently learning react and redux.<br>
 
@@ -20,5 +19,3 @@ Hi there, I'JB. 👋🏼
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jbsinluenam&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
