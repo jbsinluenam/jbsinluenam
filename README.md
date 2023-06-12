@@ -1,6 +1,7 @@
-Hi there, I'JB. 👋🏼
 
-# 💫 About Me:
+
+# Hi there, I'm JB. 👋🏼
+## 💫 About Me:
 🔭 I’m currently working on my personal project.<br>🌱 I’m currently learning react and redux.<br>
 
 
